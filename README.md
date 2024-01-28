@@ -11,6 +11,9 @@ This project implements object recognition using the InceptionV3 deep learning m
 
 ## Example Results
 ### Here are some example results obtained using the InceptionV3 model:
+
+![Hardware Simulator Preview](https://github.com/niladrigithub/object-recognition-inceptionv3/blob/main/train.jpg)
+
 Predictions:
 - 1: freight_car (0.85)
 - 2: electric_locomotive (0.08)
