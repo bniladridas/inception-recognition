@@ -12,7 +12,7 @@ This project implements image classification using the InceptionV3 deep learning
 ## Example Results
 ### Here are some example results obtained using the InceptionV3 model:
 
-![Image Preview](https://github.com/niladrigithub/image-classification/blob/main/train.jpg)
+![Image Preview](https://github.com/niladrridas/image-classification/blob/main/train.jpg)
 
 Predictions:
 - 1: freight_car (0.85)
@@ -27,7 +27,7 @@ Predictions:
 - ImageNet class index is obtained from https://storage.googleapis.com/download.tensorflow.org/data/imagenet_class_index.json.
 
 ## License
-- This project is licensed under the [MIT License](https://github.com/niladrigithub/image-classification/blob/main/LICENSE).
+- This project is licensed under the [MIT License](https://github.com/niladrridas/image-classification/blob/main/LICENSE).
 
 ## Getting Started
 1. Clone this repository:
