@@ -1,7 +1,7 @@
 # Image Classification
 
 _Tech stack:_
-![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/240px-TensorFlowLogo.svg.png) ![Keras](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png) ![InceptionV3](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Inceptionv3.png/240px-Inceptionv3.png) ![NumPy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/240px-NumPy_logo_2020.svg.png)
+![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/240px-TensorFlowLogo.svg.png) ![Keras](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png) ![InceptionV3](https://www.mdpi.com/symmetry/symmetry-14-02679/article_deploy/html/images/symmetry-14-02679-g007-550.jpg) ![NumPy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/240px-NumPy_logo_2020.svg.png)
 
 
 ## Overview
