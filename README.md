@@ -20,7 +20,9 @@ Predictions:
 - 3: passenger_car (0.01)
 
 ## Install the required dependencies:
-`pip install tensorflow`
+```
+pip install tensorflow
+```
 
 ## Acknowledgments
 - The InceptionV3 model is part of the TensorFlow Keras Applications module.
@@ -30,8 +32,8 @@ Predictions:
 - This project is licensed under the [MIT License](https://github.com/niladrridas/image-classification/blob/main/LICENSE).
 
 ## Getting Started
+
 1. Clone this repository:
-   ```
+```
    git clone https://github.com/niladrridas/imageclassification.git
 ```
-  
