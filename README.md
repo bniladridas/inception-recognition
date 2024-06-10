@@ -16,7 +16,7 @@ This project implements image classification using the InceptionV3 deep learning
 ## Example Results
 ### Here are some example results obtained using the InceptionV3 model:
 
-![Image Preview](https://github.com/niladrridas/image-classification/blob/main/train.jpg)
+![Image Preview](https://raw.githubusercontent.com/niladrridas/image-classification/main/train.jpg)
 
 Predictions:
 - 1: freight_car (0.85)
