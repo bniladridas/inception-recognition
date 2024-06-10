@@ -31,6 +31,7 @@ Predictions:
 
 ## Getting Started
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/niladrridas/imageclassification.git
-   cd image_classification
+```
+  
