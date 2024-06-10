@@ -1,5 +1,9 @@
 # Image Classification
 
+_Tech stack:_
+![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/240px-TensorFlowLogo.svg.png) ![Keras](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png) ![InceptionV3](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Inceptionv3.png/240px-Inceptionv3.png) ![NumPy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/240px-NumPy_logo_2020.svg.png)
+
+
 ## Overview
 This project implements image classification using the InceptionV3 deep learning model. The model is pre-trained on the ImageNet dataset, making it capable of accurately classifying a wide range of objects in images.
 
