@@ -27,7 +27,7 @@ Welcome to the world of cutting-edge **image classification** powered by **Incep
 
 Here’s a sneak peek of what the **InceptionV3** model can do!
 
-![Image Preview](https://raw.githubusercontent.com/niladrridas/image-classification/main/train.jpg)
+![Image Preview](/img/train.jpg)
 
 **Predictions**:
 - 🚂 **Freight Car** (Confidence: 85%)
