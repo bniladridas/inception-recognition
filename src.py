@@ -26,6 +26,7 @@ def recognize_object(image_path):
     print("Predictions:")
     for i, (imagenet_id, label, score) in enumerate(decoded_predictions):  # Iterate over the top predictions
         print(f"{i + 1}: {label} ({score:.2f})")  # Print the label and score for each prediction
+        print(f"  # {label} is predicted with a confidence score of {score:.2f}")  # Print the comment below each prediction
 
 # Example usage
 image_path = '/workspaces/imageclassification/img/messi.jpg'  # Path to the image file
