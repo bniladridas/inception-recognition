@@ -28,5 +28,5 @@ def recognize_object(image_path):
         print(f"{i + 1}: {label} ({score:.2f})")  # Print the label and score for each prediction
 
 # Example usage
-image_path = '/Users/niladridas/computer_vision/train.jpg'  # Path to the image file
+image_path = '/workspaces/imageclassification/img/messi.jpg'  # Path to the image file
 recognize_object(image_path)  # Call the function to recognize objects in the image
